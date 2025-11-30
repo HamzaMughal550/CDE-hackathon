@@ -585,4 +585,4 @@ if 'price_category' in df.columns:
         plt.xticks(rotation=45, ha='right')
         st.pyplot(fig)
 
-# st.success("🎉 Analysis 4 Completed Successfully!")
+st.success("🎉 Analysis 4 Completed Successfully!")
